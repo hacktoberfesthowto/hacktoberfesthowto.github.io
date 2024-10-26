@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Content on Hacktoberfest HOWTO</title><link>/</link><description>Recent content in Content on Hacktoberfest HOWTO</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Wed, 15 Sep 2021 20:34:52 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>HOWTO - Contributors</title><link>/howto-contributors/</link><pubDate>Mon, 03 Oct 2022 02:25:41 +0000</pubDate><guid>/howto-contributors/</guid><description>Advice for Hackertoberfest First Timers and Noobs: Welcome! Thanks for choosing to work on open source code. You may be motivated by personal development, a career in programming, or a really awesome customized digital badge. All of these are valid reasons. There are other reasons too, including &amp;ldquo;because I felt like it&amp;rdquo;, and that&amp;rsquo;s OK, too.
+Looking for issues: There are a variety of places to look for new issues, but they aren&amp;rsquo;t always friendly.</description><content>&lt;h1 id="advice-for-hackertoberfest-first-timers-and-noobs">Advice for Hackertoberfest First Timers and Noobs:&lt;/h1>
+&lt;h2 id="welcome">Welcome!&lt;/h2>
+&lt;p>Thanks for choosing to work on open source code. You may be motivated by personal development, a career in programming, or a really awesome customized digital badge. All of these are valid reasons. There are other reasons too, including &amp;ldquo;because I felt like it&amp;rdquo;, and that&amp;rsquo;s OK, too.&lt;/p>
+&lt;h2 id="looking-for-issues">Looking for issues:&lt;/h2>
+&lt;p>There are a variety of places to look for new issues, but they aren&amp;rsquo;t always friendly.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/mungell/awesome-for-beginners">Awesome for Beginners&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://up-for-grabs.net/#/">Up For Grabs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.firsttimersonly.com/">Up For First Timer and Noobs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://goodfirstissues.com/">Good First Issues&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://goodfirstissue.dev/">Good First Issues&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="spam">Spam&lt;/h2>
+&lt;p>Your pull/merge requests must not be spammy. For example:&lt;/p>
+&lt;ul>
+&lt;li>Automated PR/MRs: scripted opening pull requests to remove whitespace, fix typos or optimize images.&lt;/li>
+&lt;li>Disruptive PR/MRs: taking someone else’s branch/commits and making a pull request.&lt;/li>
+&lt;li>Anything that a project maintainer flags as spam.&lt;/li>
+&lt;li>Anything that looks like an attempt to duplicate your pull request count for October.&lt;/li>
+&lt;li>Multiple PR/MRs for the same issue that are unnecessary - for example five PR/MRs to remove a stray whitespace.
+PR/MRs that are labeled with a label containing the word “spam” by maintainers will not be counted towards Hacktoberfest.
+PR/MRs that the Hacktoberfest system detects as spammy will also not be counted. (It uses the Node.js RegEx engine with &lt;code>/\bspam\b/i&lt;/code> to look for spam labels.)&lt;/li>
+&lt;/ul>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;p>Any user with two or more spammy PR/MRs will be disqualified from Hacktoberfest.&lt;/p>
+&lt;h3 id="looking-for-additional-swag">Looking for additional swag?&lt;/h3>
+&lt;p>Some companies will post additional swag opportunities, but you may have to work a little bit extra to get those benefits.
+A good place to look for places that are offering additional stuff is the &lt;a href="https://hacktoberfestswaglist.com/">Hacktoberfest Swag List&lt;/a>. Feel free to check that out if you&amp;rsquo;re feeling adventurous.&lt;/p>
+&lt;p>It can be useful to define what level of commitment you&amp;rsquo;re looking to make in picking up an issue.
+Possible places you spend time working on an issue include:&lt;/p>
+&lt;ul>
+&lt;li>Reading the issue itself&lt;/li>
+&lt;li>Understanding what the heck they want.&lt;/li>
+&lt;li>Asking clarifying questions in the issue discussion&lt;/li>
+&lt;li>Communicating that you intend to work on this issue to the repo owner(s)&lt;/li>
+&lt;li>Figuring out which file or files need to be opened to figure out the solution.&lt;/li>
+&lt;li>Trying, potentially failing, trying again, lather, rinse, repeat.&lt;/li>
+&lt;li>Creating the solution.&lt;/li>
+&lt;li>Testing your solution.&lt;/li>
+&lt;li>Committing your changes and giving the commit a descriptive name&lt;/li>
+&lt;li>Opening up a pull request&lt;/li>
+&lt;li>Discussing your pull request&lt;/li>
+&lt;li>Potentially make changes to your pull request.&lt;/li>
+&lt;li>Doing a happy dance if your pull request is accepted.&lt;/li>
+&lt;/ul>
+&lt;p>The more you do the above actions, the more quickly you can accomplish these things. For your first issue, plan on at least a couple minutes to accomplish each task in the above list in order to keep from getting too discouraged. If you already know the solution to the issue, make sure you still plan on spending time communicating with the repo owners about the work you plan to do.&lt;/p>
+&lt;p>Depending on the level of programming experience you have, it might be good to set a goal of spending approximately 1 hour per Hacktoberfest Pull Request, not including wading through all of the issues. Hopefully, you find a cool repo with a helpful owner that makes this process smooth and empowering, not painful and toxic. If you don&amp;rsquo;t find issues right away, don&amp;rsquo;t fret! You CAN make your repositories, and create your own issues. Then, you can use the valuable experience of having looked through a bunch of GitHub issues to write clearly defined, achievable issues that you and others can work on.&lt;/p>
+&lt;h2 id="you-can-do-this">You can do this!&lt;/h2>
+&lt;p>Remember, contributing to open source should be fun and fulfilling, so if you&amp;rsquo;re discouraged, take a break. Go and take a walk, play a game, or interact with people you care about, and come back to it when you&amp;rsquo;re feeling recharged and motivated.&lt;/p></content></item><item><title>HOWTO - Maintainers</title><link>/howto-maintainers/</link><pubDate>Mon, 03 Oct 2022 02:25:32 +0000</pubDate><guid>/howto-maintainers/</guid><description>Hacktoberfest is now opt-in and on GitHub and GitLab. Make sure you have opted in. PRs for Hacktoberfest count if:
+Submitted during the month of October AND Submitted in a public repo AND The PR is on either GitHub or GitLab AND The PR is labelled as hacktoberfest-accepted by a maintainer OR Submitted in a repo with the hacktoberfest topic AND The PR is merged OR The PR has been approved Not familiar with repository topics?</description><content>&lt;h2 id="hacktoberfest-is-now-opt-in-and-on-github-and-gitlab--make-sure-you-have-opted-in">Hacktoberfest is now opt-in and on GitHub and GitLab. Make sure you have opted in.&lt;/h2>
+&lt;p>PRs for Hacktoberfest count if:&lt;/p>
+&lt;ul>
+&lt;li>Submitted during the month of October AND&lt;/li>
+&lt;li>Submitted in a public repo AND
+&lt;ul>
+&lt;li>The PR is on either GitHub or GitLab AND&lt;/li>
+&lt;li>The PR is labelled as &lt;code>hacktoberfest-accepted&lt;/code> by a maintainer OR&lt;/li>
+&lt;li>Submitted in a repo with the &lt;code>hacktoberfest&lt;/code> topic AND
+&lt;ul>
+&lt;li>The PR is merged OR&lt;/li>
+&lt;li>The PR has been approved&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>Not familiar with repository topics? I wasn&amp;rsquo;t, either.&lt;/p>
+&lt;ul>
+&lt;li>Go to your repo and click &amp;ldquo;About&amp;rdquo;, then add any useful topics, along with &lt;code>hacktoberfest&lt;/code> if you want contributors.
+&lt;img src="https://user-images.githubusercontent.com/876146/96199831-04dd9c80-0f1e-11eb-9100-f111453f12c4.gif" alt="giving your repo topics">&lt;/li>
+&lt;/ul>
+&lt;h2 id="making-a-good-hacktoberfest-issue">Making a good Hacktoberfest issue:&lt;/h2>
+&lt;p>The secret to getting pull requests from Hacktoberfest participants is trying to put yourself in the shoes of a first time contributor.
+&lt;em>A first-time contributor may have some of these characteristics:&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>This may be their first time using Github, or their first time using source control out of a work or school context.&lt;/li>
+&lt;li>They have zero to many years of experience in this programming language.&lt;/li>
+&lt;li>They may have previously worked on projects alone or in very small groups, always starting from the beginning of the project.&lt;/li>
+&lt;li>They have limited free time, and are using Hacktoberfest as a trial run in spending free time working on open source code.&lt;/li>
+&lt;li>They like a free digital badge that unlocks a new level and customization of the badge with each of their accepted pull/merge requests.&lt;/li>
+&lt;/ul>
+&lt;p>Keeping aware of these characteristics, we want to have as little friction as possible between creating an issue, having a stranger read that issue, decide to work on the project, bring down your repo and get it to run, make the needed changes, and put in a pull request, have their code reviewed, and get those changes accepted.&lt;/p>
+&lt;h3 id="introduce-the-part-of-the-program-that-needs-attention-and-how-it-works-in-general">Introduce the part of the program that needs attention and how it works in general.&lt;/h3>
+&lt;p>If someone has never seen your repo before, they probably don&amp;rsquo;t know how your stuff works. Help them out. Give a general overview of what is currently happening in the application.&lt;/p>
+&lt;h3 id="use-a-descriptive-title-for-easy-to-understand-directions">Use a Descriptive Title for Easy to Understand Directions&lt;/h3>
+&lt;p>Many folks won&amp;rsquo;t open the issue if they don&amp;rsquo;t think they can help you with the solution.&lt;/p>
+&lt;h3 id="define-the-problem-or-enhancement-you-want">Define the problem or enhancement you want.&lt;/h3>
+&lt;p>Make a permalink to the line numbers, or refer to particular parts of code that are relevant. Here is how to create a permalink to a line or lines of code that can be used inside of an issue: &lt;a href="https://help.github.com/en/articles/creating-a-permanent-link-to-a-code-snippet">https://help.github.com/en/articles/creating-a-permanent-link-to-a-code-snippet&lt;/a>
+You can do the normal user story stuff here. Example: As a &lt;em>someone&lt;/em>, I want &lt;em>a thing&lt;/em> so that I can &lt;em>do something&lt;/em>.&lt;/p>
+&lt;h3 id="when-its-useful-to-do-so-include-screenshots-or-images">When it&amp;rsquo;s useful to do so, include screenshots or images.&lt;/h3>
+&lt;p>GitHub makes it really easy to add images to your issues, and a picture can be very descriptive, so consider using a screenshot to help explain what you&amp;rsquo;re looking for.&lt;/p>
+&lt;p>Gifs and diagrams can be very helpful, too! You can use free software like &lt;a href="https://www.cockos.com/licecap/">LICEcap&lt;/a> or &lt;a href="https://www.screentogif.com/">ScreenToGif&lt;/a> to make these relatively easily.
+&lt;img src="https://user-images.githubusercontent.com/876146/88444298-20834c00-cde2-11ea-822f-960329388719.gif" alt="example">&lt;/p>
+&lt;h3 id="split-work-into-small-chunks">Split work into small chunks.&lt;/h3>
+&lt;p>One big hurdle that keeps people from putting in that first pull request is looking at the issue, not knowing where to start, then closing everything without making any contributions. Splitting up work into smaller, but still meaningful, bits. Create issues that fit between &amp;ldquo;Add your name to a text file&amp;rdquo; and &amp;ldquo;Reinvent quantum computing and create order from chaos&amp;rdquo;.&lt;/p>
+&lt;h3 id="do-you-know-the-lines-of-code-you-want-changed--include-them-with-a-code-snippet">Do you know the lines of code you want changed? Include them with a code snippet!&lt;/h3>
+&lt;p>In 2017, GitHub added the ability to &lt;a href="https://github.blog/2017-08-15-introducing-embedded-code-snippets/">embed code snippets into your issues&lt;/a>. To include your code, you&amp;rsquo;re going to need to create a permanent link to a code snippet, and GitHub has put some documentation on how to do so &lt;a href="https://docs.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet">here&lt;/a>. Generally, if you go to the code in question on the GitHub website, there&amp;rsquo;s a little context menu on the left side that lets you select the code and make a permalink. You can also create an issue directly from this menu, if you haven&amp;rsquo;t already created the issue. Giving the additional code context can really help get someone more familiar with the code in your project.&lt;/p>
+&lt;h3 id="consider-making-your-repo-ready-to-code">Consider making your repo &amp;ldquo;ready to code&amp;rdquo;&lt;/h3>
+&lt;p>There are a variety of services that allow you to open your repo inside of a container with an online IDE, which greatly I&amp;rsquo;ve had good luck using &lt;a href="https://gitpod.io/">GitPod&lt;/a> to do so on some of my repos, but other alternatives exist, such as &lt;a href="https://glitch.com/">Glitch&lt;/a> and the upcoming &lt;a href="https://github.com/features/codespaces">GitHub Codespaces&lt;/a>, so feel free to make your own decisions based on programming language or other factors.&lt;/p>
+&lt;h3 id="give-suggestions-on-a-possible-path-to-pursue-to-accomplish-the-task">Give suggestions on a possible path to pursue to accomplish the task.&lt;/h3>
+&lt;p>Consider giving some architectural advice on the sort of change you&amp;rsquo;re looking to see.&lt;/p>
+&lt;h3 id="tags-tags-tags">Tags, Tags, Tags!&lt;/h3>
+&lt;p>There are websites that help people find Hacktoberfest tickets to do, and many of them allow the potential coder to filter by tags/labels. If you want your ticket to be found, use tags in your labels section that will make your issues appear in these lists!
+Here are some tags to consider using in your issue labels:&lt;/p>
+&lt;ul>
+&lt;li>up-for-grabs&lt;/li>
+&lt;li>first-timers-only&lt;/li>
+&lt;li>trivial&lt;/li>
+&lt;li>beginner&lt;/li>
+&lt;li>&amp;ldquo;easy pick&amp;rdquo;&lt;/li>
+&lt;li>&amp;ldquo;good first issue&amp;rdquo;&lt;/li>
+&lt;li>&amp;ldquo;help wanted&amp;rdquo;&lt;/li>
+&lt;li>newcomers&lt;/li>
+&lt;li>jump-in&lt;/li>
+&lt;li>easy&lt;/li>
+&lt;li>documentation&lt;/li>
+&lt;li>tests&lt;/li>
+&lt;/ul>
+&lt;p>Aim to be truthful with your tags. Don&amp;rsquo;t tag everything with trivial if you don&amp;rsquo;t think it will be.&lt;/p>
+&lt;h3 id="be-communicative-when-people-offer-to-help">Be communicative when people offer to help.&lt;/h3>
+&lt;p>Folks will often reach out in the issue comments before getting into the code. Be supportive.&lt;/p>
+&lt;h3 id="was-their-pr-helpful--add-the-hacktoberfest-accepted-tag">Was their PR helpful? Add the &lt;code>hacktoberfest-accepted&lt;/code> tag!&lt;/h3>
+&lt;p>Did you appreciate their work? Help them get credit for it by either merging the PR, adding the &lt;code>hacktoberfest-accepted&lt;/code> tag, or both!
+&lt;img src="https://user-images.githubusercontent.com/876146/96200885-be3d7180-0f20-11eb-930f-700d7a21f04c.png" alt="hacktoberfest-accepted">&lt;/p>
+&lt;h3 id="use-templates-and-guidelines-to-help-communicate-what-you-expect">Use templates and guidelines to help communicate what you expect.&lt;/h3>
+&lt;h4 id="contributingmd-files">CONTRIBUTING.md files&lt;/h4>
+&lt;p>The standard way to provide guidelines on contributions to your repository is to create a CONTRIBUTING.md file.
+That file should contain your expectations for contributors, and any background information that those contributors should go through if they wish to participate in your repository.
+What should you put in it? &lt;a href="https://embeddedartistry.com/blog/2017/12/11/get-others-involved-in-your-project-with-a-contributing-guide/">Embedded Artistry has a good checklist&lt;/a> and &lt;a href="http://mozillascience.github.io/working-open-workshop/contributing/">Mozilla has an article about how to create one&lt;/a>.
+Borrowing is the sincerest form of flattery, so you could always look at the &lt;a href="https://github.com/search?q=contributing.md&amp;amp;type=Code">more than 7 million references to CONTRIBUTING.md on GitHub&lt;/a>.&lt;/p>
+&lt;h4 id="pull-request-templates">Pull Request templates&lt;/h4>
+&lt;p>Do you want something included in your pull requests? Create a template, and you can auto-populate your pull request with the information that you&amp;rsquo;re looking for.
+&lt;a href="https://docs.github.com/en/free-pro-team@latest/github/building-a-strong-community/creating-a-pull-request-template-for-your-repository">Github has some good documentation about it&lt;/a>, but there are a few rules of thumb.&lt;/p>
+&lt;ul>
+&lt;li>If you want the template to be easily viewable, make it in pull_request_template.md or docs/pull_request_template.md&lt;/li>
+&lt;li>If you want it to be in a hidden directory, make it in .github/pull_request_template.md&lt;/li>
+&lt;li>To create multiple pull request templates, get ready to read some more documentation, as that seems to be a bit more complicated.&lt;/li>
+&lt;/ul></content></item><item><title>History</title><link>/history/</link><pubDate>Thu, 07 Oct 2021 02:21:15 +0000</pubDate><guid>/history/</guid><description>Hacktoberfest History I&amp;rsquo;m no expert, but I&amp;rsquo;ve been able to collect images from the internet starting from Hacktoberfest in 2014, showing the logo and the t-shirt from each year.
+2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 No shirt. Why isn’t there a t-shirt this year?</description><content>&lt;h1 id="hacktoberfest-history">Hacktoberfest History&lt;/h1>
+&lt;figure class="left" >
+&lt;img src="/images/2014-2019Shirts.jpg" />
+&lt;/figure>
+&lt;p>I&amp;rsquo;m no expert, but I&amp;rsquo;ve been able to collect images from the internet starting from Hacktoberfest in 2014, showing the logo and the t-shirt from each year.&lt;/p>
+&lt;h2 id="2014">2014&lt;/h2>
+&lt;figure class="left" >
+&lt;img src="/images/2014Logo.webp" />
+&lt;/figure>
+&lt;figure class="left" >
+&lt;img src="/images/2014Shirt.jpg" />
+&lt;/figure>
+&lt;h2 id="2015">2015&lt;/h2>
+&lt;figure class="left" >
+&lt;img src="/images/2015Logo.webp" />
+&lt;/figure>
+&lt;figure class="left" >
+&lt;img src="/images/2015Shirt3.png" />
+&lt;/figure>
+&lt;h2 id="2016">2016&lt;/h2>
+&lt;figure class="left" >
+&lt;img src="/images/2016Logo.webp" />
+&lt;/figure>
+&lt;figure class="left" >
+&lt;img src="/images/2016Shirt.webp" />
+&lt;/figure>
+&lt;h2 id="2017">2017&lt;/h2>
+&lt;figure class="left" >
+&lt;img src="/images/2017Logo.jpg" />
+&lt;/figure>
+&lt;figure class="left" >
+&lt;img src="/images/2017Shirt.jpg" />
+&lt;/figure>
+&lt;h2 id="2018">2018&lt;/h2>
+&lt;figure class="left" >
+&lt;img src="/images/2018Logo.webp" />
+&lt;/figure>
+&lt;figure class="left" >
+&lt;img src="/images/2018Shirt.png" />
+&lt;/figure>
+&lt;h2 id="2019">2019&lt;/h2>
+&lt;figure class="left" >
+&lt;img src="/images/2019Logo.webp" />
+&lt;/figure>
+&lt;figure class="left" >
+&lt;img src="/images/2019Shirt.webp" />
+&lt;/figure>
+&lt;h2 id="2020">2020&lt;/h2>
+&lt;figure class="left" >
+&lt;img src="/images/2020Logo.webp" />
+&lt;/figure>
+&lt;figure class="left" >
+&lt;img src="/images/2020Shirt.jpg" />
+&lt;/figure>
+&lt;h2 id="2021">2021&lt;/h2>
+&lt;figure class="left" >
+&lt;img src="/images/2021Logo.webp" />
+&lt;/figure>
+&lt;figure class="left" >
+&lt;img src="/images/2021Shirt.jpg" />
+&lt;/figure>
+&lt;figure class="left" >
+&lt;img src="/images/2021Swag.jpg" />
+&lt;/figure>
+&lt;h2 id="2022">2022&lt;/h2>
+&lt;figure class="left" >
+&lt;img src="/images/2022Logo.webp" />
+&lt;/figure>
+&lt;figure class="left" >
+&lt;img src="/images/2022Shirt1.jpeg" />
+&lt;/figure>
+&lt;figure class="left" >
+&lt;img src="/images/2022Shirt2.jpg" />
+&lt;/figure>
+&lt;h2 id="2023">2023&lt;/h2>
+&lt;figure class="left" >
+&lt;img src="/images/2023logo-horizontal.svg" />
+&lt;/figure>
+&lt;figure class="left" >
+&lt;img src="/images/2023logo.svg" />
+&lt;/figure>
+&lt;h1 id="no-shirt">No shirt.&lt;/h1>
+&lt;h1 id="why-isnt-there-a-t-shirt-this-year">Why isn’t there a t-shirt this year?&lt;/h1>
+&lt;h1 id="good-question--here-is-the-response-from-the-official-hacktoberfest-page-originally-posted-at-httpshacktoberfestcomparticipationfaqhttpswebarchiveorgweb20231009172722httpshacktoberfestcomparticipationfaq">Good question! Here is the response from the official Hacktoberfest page (originally posted at &lt;a href="https://web.archive.org/web/20231009172722/https://hacktoberfest.com/participation/#faq">https://hacktoberfest.com/participation/#faq&lt;/a>):&lt;/h1>
+&lt;blockquote>
+&lt;p>As Hacktoberfest has grown, so have the logistical challenges associated with creating a reward. Unfortunately, it’s no longer feasible for us to provide a free t-shirt. Nevertheless, we still want participants to have a memorable experience and receive a special memento marking their participation and the year.&lt;/p>
+&lt;p>&lt;strong>Instead of a t-shirt reward&lt;/strong>, we’re partnering with Holopin and our sponsors to provide digital rewards, making global delivery much simpler. We believe this shift will allow Hacktoberfest to continue supporting and raising awareness for open-source projects worldwide for years to come.&lt;/p>
+&lt;p>Visit our &lt;a href="https://tree-nation.com/profile/hacktoberfest">Tree-Nation profile&lt;/a> to learn more.&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="2024">2024&lt;/h2>
+&lt;figure class="left" >
+&lt;img src="/images/2024logo.png" />
+&lt;/figure>
+&lt;h1 id="no-shirt-1">No shirt.&lt;/h1></content></item><item><title>HOWTO</title><link>/howto/</link><pubDate>Wed, 15 Sep 2021 20:14:13 +0000</pubDate><guid>/howto/</guid><description>Hacktoberfest is now opt-in and on GitHub and GitLab. Make sure you have opted in. PRs for Hacktoberfest count if:
+Submitted during the month of October AND Submitted in a public repo AND The PR is on either GitHub or GitLab AND The PR is labelled as hacktoberfest-accepted by a maintainer OR Submitted in a repo with the hacktoberfest topic AND The PR is merged OR The PR has been approved Not familiar with repository topics?</description><content>&lt;h2 id="hacktoberfest-is-now-opt-in-and-on-github-and-gitlab--make-sure-you-have-opted-in">Hacktoberfest is now opt-in and on GitHub and GitLab. Make sure you have opted in.&lt;/h2>
+&lt;p>PRs for Hacktoberfest count if:&lt;/p>
+&lt;ul>
+&lt;li>Submitted during the month of October AND&lt;/li>
+&lt;li>Submitted in a public repo AND
+&lt;ul>
+&lt;li>The PR is on either GitHub or GitLab AND&lt;/li>
+&lt;li>The PR is labelled as &lt;code>hacktoberfest-accepted&lt;/code> by a maintainer OR&lt;/li>
+&lt;li>Submitted in a repo with the &lt;code>hacktoberfest&lt;/code> topic AND
+&lt;ul>
+&lt;li>The PR is merged OR&lt;/li>
+&lt;li>The PR has been approved&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>Not familiar with repository topics? I wasn&amp;rsquo;t, either.&lt;/p>
+&lt;ul>
+&lt;li>Go to your repo and click &amp;ldquo;About&amp;rdquo;, then add any useful topics, along with &lt;code>hacktoberfest&lt;/code> if you want contributors.
+&lt;img src="https://user-images.githubusercontent.com/876146/96199831-04dd9c80-0f1e-11eb-9100-f111453f12c4.gif" alt="giving your repo topics">&lt;/li>
+&lt;/ul>
+&lt;h2 id="making-a-good-hacktoberfest-issue">Making a good Hacktoberfest issue:&lt;/h2>
+&lt;p>The secret to getting pull requests from Hacktoberfest participants is trying to put yourself in the shoes of a first time contributor.
+&lt;em>A first-time contributor may have some of these characteristics:&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>This may be their first time using Github, or their first time using source control out of a work or school context.&lt;/li>
+&lt;li>They have zero to many years of experience in this programming language.&lt;/li>
+&lt;li>They may have previously worked on projects alone or in very small groups, always starting from the beginning of the project.&lt;/li>
+&lt;li>They have limited free time, and are using Hacktoberfest as a trial run in spending free time working on open source code.&lt;/li>
+&lt;li>They like a free digital badge that unlocks a new level and customization of the badge with each of their accepted pull/merge requests.&lt;/li>
+&lt;/ul>
+&lt;p>Keeping aware of these characteristics, we want to have as little friction as possible between creating an issue, having a stranger read that issue, decide to work on the project, bring down your repo and get it to run, make the needed changes, and put in a pull request, have their code reviewed, and get those changes accepted.&lt;/p>
+&lt;h3 id="introduce-the-part-of-the-program-that-needs-attention-and-how-it-works-in-general">Introduce the part of the program that needs attention and how it works in general.&lt;/h3>
+&lt;p>If someone has never seen your repo before, they probably don&amp;rsquo;t know how your stuff works. Help them out. Give a general overview of what is currently happening in the application.&lt;/p>
+&lt;h3 id="use-a-descriptive-title-for-easy-to-understand-directions">Use a Descriptive Title for Easy to Understand Directions&lt;/h3>
+&lt;p>Many folks won&amp;rsquo;t open the issue if they don&amp;rsquo;t think they can help you with the solution.&lt;/p>
+&lt;h3 id="define-the-problem-or-enhancement-you-want">Define the problem or enhancement you want.&lt;/h3>
+&lt;p>Make a permalink to the line numbers, or refer to particular parts of code that are relevant. Here is how to create a permalink to a line or lines of code that can be used inside of an issue: &lt;a href="https://help.github.com/en/articles/creating-a-permanent-link-to-a-code-snippet">https://help.github.com/en/articles/creating-a-permanent-link-to-a-code-snippet&lt;/a>
+You can do the normal user story stuff here. Example: As a &lt;em>someone&lt;/em>, I want &lt;em>a thing&lt;/em> so that I can &lt;em>do something&lt;/em>.&lt;/p>
+&lt;h3 id="when-its-useful-to-do-so-include-screenshots-or-images">When it&amp;rsquo;s useful to do so, include screenshots or images.&lt;/h3>
+&lt;p>GitHub makes it really easy to add images to your issues, and a picture can be very descriptive, so consider using a screenshot to help explain what you&amp;rsquo;re looking for.&lt;/p>
+&lt;p>Gifs and diagrams can be very helpful, too! You can use free software like &lt;a href="https://www.cockos.com/licecap/">LICEcap&lt;/a> or &lt;a href="https://www.screentogif.com/">ScreenToGif&lt;/a> to make these relatively easily.
+&lt;img src="https://user-images.githubusercontent.com/876146/88444298-20834c00-cde2-11ea-822f-960329388719.gif" alt="example">&lt;/p>
+&lt;h3 id="split-work-into-small-chunks">Split work into small chunks.&lt;/h3>
+&lt;p>One big hurdle that keeps people from putting in that first pull request is looking at the issue, not knowing where to start, then closing everything without making any contributions. Splitting up work into smaller, but still meaningful, bits. Create issues that fit between &amp;ldquo;Add your name to a text file&amp;rdquo; and &amp;ldquo;Reinvent quantum computing and create order from chaos&amp;rdquo;.&lt;/p>
+&lt;h3 id="do-you-know-the-lines-of-code-you-want-changed--include-them-with-a-code-snippet">Do you know the lines of code you want changed? Include them with a code snippet!&lt;/h3>
+&lt;p>In 2017, GitHub added the ability to &lt;a href="https://github.blog/2017-08-15-introducing-embedded-code-snippets/">embed code snippets into your issues&lt;/a>. To include your code, you&amp;rsquo;re going to need to create a permanent link to a code snippet, and GitHub has put some documentation on how to do so &lt;a href="https://docs.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet">here&lt;/a>. Generally, if you go to the code in question on the GitHub website, there&amp;rsquo;s a little context menu on the left side that lets you select the code and make a permalink. You can also create an issue directly from this menu, if you haven&amp;rsquo;t already created the issue. Giving the additional code context can really help get someone more familiar with the code in your project.&lt;/p>
+&lt;h3 id="consider-making-your-repo-ready-to-code">Consider making your repo &amp;ldquo;ready to code&amp;rdquo;&lt;/h3>
+&lt;p>There are a variety of services that allow you to open your repo inside of a container with an online IDE, which greatly I&amp;rsquo;ve had good luck using &lt;a href="https://gitpod.io/">GitPod&lt;/a> to do so on some of my repos, but other alternatives exist, such as &lt;a href="https://glitch.com/">Glitch&lt;/a> and the upcoming &lt;a href="https://github.com/features/codespaces">GitHub Codespaces&lt;/a>, so feel free to make your own decisions based on programming language or other factors.&lt;/p>
+&lt;h3 id="give-suggestions-on-a-possible-path-to-pursue-to-accomplish-the-task">Give suggestions on a possible path to pursue to accomplish the task.&lt;/h3>
+&lt;p>Consider giving some architectural advice on the sort of change you&amp;rsquo;re looking to see.&lt;/p>
+&lt;h3 id="tags-tags-tags">Tags, Tags, Tags!&lt;/h3>
+&lt;p>There are websites that help people find Hacktoberfest tickets to do, and many of them allow the potential coder to filter by tags/labels. If you want your ticket to be found, use tags in your labels section that will make your issues appear in these lists!
+Here are some tags to consider using in your issue labels:&lt;/p>
+&lt;ul>
+&lt;li>up-for-grabs&lt;/li>
+&lt;li>first-timers-only&lt;/li>
+&lt;li>trivial&lt;/li>
+&lt;li>beginner&lt;/li>
+&lt;li>&amp;ldquo;easy pick&amp;rdquo;&lt;/li>
+&lt;li>&amp;ldquo;good first issue&amp;rdquo;&lt;/li>
+&lt;li>&amp;ldquo;help wanted&amp;rdquo;&lt;/li>
+&lt;li>newcomers&lt;/li>
+&lt;li>jump-in&lt;/li>
+&lt;li>easy&lt;/li>
+&lt;li>documentation&lt;/li>
+&lt;li>tests&lt;/li>
+&lt;/ul>
+&lt;p>Aim to be truthful with your tags. Don&amp;rsquo;t tag everything with trivial if you don&amp;rsquo;t think it will be.&lt;/p>
+&lt;h3 id="be-communicative-when-people-offer-to-help">Be communicative when people offer to help.&lt;/h3>
+&lt;p>Folks will often reach out in the issue comments before getting into the code. Be supportive.&lt;/p>
+&lt;h3 id="was-their-pr-helpful--add-the-hacktoberfest-accepted-tag">Was their PR helpful? Add the &lt;code>hacktoberfest-accepted&lt;/code> tag!&lt;/h3>
+&lt;p>Did you appreciate their work? Help them get credit for it by either merging the PR, adding the &lt;code>hacktoberfest-accepted&lt;/code> tag, or both!
+&lt;img src="https://user-images.githubusercontent.com/876146/96200885-be3d7180-0f20-11eb-930f-700d7a21f04c.png" alt="hacktoberfest-accepted">&lt;/p>
+&lt;h3 id="use-templates-and-guidelines-to-help-communicate-what-you-expect">Use templates and guidelines to help communicate what you expect.&lt;/h3>
+&lt;h4 id="contributingmd-files">CONTRIBUTING.md files&lt;/h4>
+&lt;p>The standard way to provide guidelines on contributions to your repository is to create a CONTRIBUTING.md file.
+That file should contain your expectations for contributors, and any background information that those contributors should go through if they wish to participate in your repository.
+What should you put in it? &lt;a href="https://embeddedartistry.com/blog/2017/12/11/get-others-involved-in-your-project-with-a-contributing-guide/">Embedded Artistry has a good checklist&lt;/a> and &lt;a href="http://mozillascience.github.io/working-open-workshop/contributing/">Mozilla has an article about how to create one&lt;/a>.
+Borrowing is the sincerest form of flattery, so you could always look at the &lt;a href="https://github.com/search?q=contributing.md&amp;amp;type=Code">more than 7 million references to CONTRIBUTING.md on GitHub&lt;/a>.&lt;/p>
+&lt;h4 id="pull-request-templates">Pull Request templates&lt;/h4>
+&lt;p>Do you want something included in your pull requests? Create a template, and you can auto-populate your pull request with the information that you&amp;rsquo;re looking for.
+&lt;a href="https://docs.github.com/en/free-pro-team@latest/github/building-a-strong-community/creating-a-pull-request-template-for-your-repository">Github has some good documentation about it&lt;/a>, but there are a few rules of thumb.&lt;/p>
+&lt;ul>
+&lt;li>If you want the template to be easily viewable, make it in pull_request_template.md or docs/pull_request_template.md&lt;/li>
+&lt;li>If you want it to be in a hidden directory, make it in .github/pull_request_template.md&lt;/li>
+&lt;li>To create multiple pull request templates, get ready to read some more documentation, as that seems to be a bit more complicated.&lt;/li>
+&lt;/ul>
+&lt;h1 id="advice-for-hackertoberfest-first-timers-and-noobs">Advice for Hackertoberfest First Timers and Noobs:&lt;/h1>
+&lt;h2 id="welcome">Welcome!&lt;/h2>
+&lt;p>Thanks for choosing to work on open source code. You may be motivated by personal development, a career in programming, or a really awesome customized digital badge. All of these are valid reasons. There are other reasons too, including &amp;ldquo;because I felt like it&amp;rdquo;, and that&amp;rsquo;s OK, too.&lt;/p>
+&lt;h2 id="looking-for-issues">Looking for issues:&lt;/h2>
+&lt;p>There are a variety of places to look for new issues, but they aren&amp;rsquo;t always friendly.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/mungell/awesome-for-beginners">Awesome for Beginners&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://up-for-grabs.net/#/">Up For Grabs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.firsttimersonly.com/">Up For First Timer and Noobs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://goodfirstissues.com/">Good First Issues&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://goodfirstissue.dev/">Good First Issues&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="looking-for-additional-swag">Looking for additional swag?&lt;/h3>
+&lt;p>Some companies will post additional swag opportunities, but you may have to work a little bit extra to get those benefits.
+A good place to look for places that are offering additional stuff is the &lt;a href="https://hacktoberfestswaglist.com/">Hacktoberfest Swag List&lt;/a>. Feel free to check that out if you&amp;rsquo;re feeling adventurous.&lt;/p>
+&lt;p>It can be useful to define what level of commitment you&amp;rsquo;re looking to make in picking up an issue.
+Possible places you spend time working on an issue include:&lt;/p>
+&lt;ul>
+&lt;li>Reading the issue itself&lt;/li>
+&lt;li>Understanding what the heck they want.&lt;/li>
+&lt;li>Asking clarifying questions in the issue discussion&lt;/li>
+&lt;li>Communicating that you intend to work on this issue to the repo owner(s)&lt;/li>
+&lt;li>Figuring out which file or files need to be opened to figure out the solution.&lt;/li>
+&lt;li>Trying, potentially failing, trying again, lather, rinse, repeat.&lt;/li>
+&lt;li>Creating the solution.&lt;/li>
+&lt;li>Testing your solution.&lt;/li>
+&lt;li>Committing your changes and giving the commit a descriptive name&lt;/li>
+&lt;li>Opening up a pull request&lt;/li>
+&lt;li>Discussing your pull request&lt;/li>
+&lt;li>Potentially make changes to your pull request.&lt;/li>
+&lt;li>Doing a happy dance if your pull request is accepted.&lt;/li>
+&lt;/ul>
+&lt;p>The more you do the above actions, the more quickly you can accomplish these things. For your first issue, plan on at least a couple minutes to accomplish each task in the above list in order to keep from getting too discouraged. If you already know the solution to the issue, make sure you still plan on spending time communicating with the repo owners about the work you plan to do.&lt;/p>
+&lt;p>Depending on the level of programming experience you have, it might be good to set a goal of spending approximately 1 hour per Hacktoberfest Pull Request, not including wading through all of the issues. Hopefully, you find a cool repo with a helpful owner that makes this process smooth and empowering, not painful and toxic. If you don&amp;rsquo;t find issues right away, don&amp;rsquo;t fret! You CAN make your repositories, and create your own issues. Then, you can use the valuable experience of having looked through a bunch of GitHub issues to write clearly defined, achievable issues that you and others can work on.&lt;/p>
+&lt;h2 id="you-can-do-this">You can do this!&lt;/h2>
+&lt;p>Remember, contributing to open source should be fun and fulfilling, so if you&amp;rsquo;re discouraged, take a break. Go and take a walk, play a game, or interact with people you care about, and come back to it when you&amp;rsquo;re feeling recharged and motivated.&lt;/p></content></item><item><title>About</title><link>/about/</link><pubDate>Wed, 15 Sep 2021 20:09:36 +0000</pubDate><guid>/about/</guid><description>Hello world! This is best described as a Hacktoberfest fan site, filled with community suggestions on how to make the most of Hacktoberfest. Whether you are a new developer or an experienced repository maintainer, there should be something here for you.
+If you have a suggestion, feel free to create a new issue here!</description><content>&lt;h1 id="hello-world">Hello world!&lt;/h1>
+&lt;p>This is best described as a Hacktoberfest fan site, filled with community suggestions on how to make the most of Hacktoberfest. Whether you are a new developer or an experienced repository maintainer, there should be something here for you.&lt;/p>
+&lt;p>If you have a suggestion, feel free to create a new issue &lt;a href="https://github.com/hacktoberfesthowto/howto-blog/issues">here&lt;/a>!&lt;/p></content></item></channel></rss>
